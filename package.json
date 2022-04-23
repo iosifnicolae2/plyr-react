@@ -48,7 +48,7 @@
     "copy:css": "cpy node_modules/plyr/dist/plyr.css dist/"
   },
   "dependencies": {
-    "plyr": "^3.6.8"
+    "plyr": "^3.7.2"
   },
   "peerDependencies": {
     "react": "^16.13.0  || ^17.0.0",
